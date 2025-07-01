@@ -1,6 +1,11 @@
 Hi 👋 My name is Mykhailo Hubko
 ===============================
-
+<h2 align="center">
+  <img src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning Face.png' alt='Grinning Face' width='25' height='25' />
+  Yahoo, I'm Forgey!
+  <img src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning Face.png' alt='Grinning Face' width='25' height='25' />
+</h2>
+--------------
 Front-End developer - TypeScript/React
 --------------------------------------
 
